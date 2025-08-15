@@ -1,2 +1,5 @@
 # Labs_OptimizationForEngg-SS25
-Implementation of Algorithms from the Course Optimization for Engineers in Friedrich-Alexander University Erlangen-Nuremberg.
+Course: Optimization for Engineers
+Professor Dr. Johannes Hild
+Friedrich-Alexander-University Erlangen-Nuremberg
+This Repository consists of Implementation of Algorithms in the course
